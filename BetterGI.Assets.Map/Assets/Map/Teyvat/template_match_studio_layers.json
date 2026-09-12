@@ -1,0 +1,392 @@
+[
+  {
+    "LayerGroupId": "10",
+    "LayerId": "LayeredMap_10_-1",
+    "Name": "？？？",
+    "Scale": 2.0,
+    "Floor": -1,
+    "Top": 7748.0,
+    "Left": 8599.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "11",
+    "LayerId": "LayeredMap_11_1",
+    "Name": "山中之馆的前厅",
+    "Scale": 2.0,
+    "Floor": 1,
+    "Top": 8441.0,
+    "Left": 6341.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "11",
+    "LayerId": "LayeredMap_11_4",
+    "Name": "山中之馆的二楼",
+    "Scale": 2.0,
+    "Floor": 4,
+    "Top": 8456.0,
+    "Left": 6324.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "11",
+    "LayerId": "LayeredMap_11_5",
+    "Name": "山中之馆的天顶",
+    "Scale": 2.0,
+    "Floor": 5,
+    "Top": 8424.0,
+    "Left": 6332.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "11",
+    "LayerId": "LayeredMap_11_6",
+    "Name": "山中之馆的三楼",
+    "Scale": 2.0,
+    "Floor": 6,
+    "Top": 8398.0,
+    "Left": 6303.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "11",
+    "LayerId": "LayeredMap_11_8",
+    "Name": "云上的宫殿",
+    "Scale": 2.0,
+    "Floor": 8,
+    "Top": 8451.0,
+    "Left": 6543.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "12",
+    "LayerId": "LayeredMap_12_-1",
+    "Name": "隐居处",
+    "Scale": 2.0,
+    "Floor": -1,
+    "Top": 2816.0,
+    "Left": 4822.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "13",
+    "LayerId": "LayeredMap_13_-1",
+    "Name": "阿兰·吉约丹的安眠处",
+    "Scale": 2.0,
+    "Floor": -1,
+    "Top": 3714.0,
+    "Left": 5049.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "14",
+    "LayerId": "LayeredMap_14_-1",
+    "Name": "列车总站站台层",
+    "Scale": 2.0,
+    "Floor": -1,
+    "Top": 9508.0,
+    "Left": 6984.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "14",
+    "LayerId": "LayeredMap_14_-2",
+    "Name": "列车总站出站层",
+    "Scale": 2.0,
+    "Floor": -2,
+    "Top": 9516.0,
+    "Left": 7072.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "15",
+    "LayerId": "LayeredMap_15_-1",
+    "Name": "巨大炬火的环形道",
+    "Scale": 2.0,
+    "Floor": -1,
+    "Top": 9731.0,
+    "Left": 6819.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "15",
+    "LayerId": "LayeredMap_15_-2",
+    "Name": "巨大炬火的炉心",
+    "Scale": 2.0,
+    "Floor": -2,
+    "Top": 9760.0,
+    "Left": 6851.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "16",
+    "LayerId": "LayeredMap_16_-1",
+    "Name": "坍塌的隧道",
+    "Scale": 2.0,
+    "Floor": -1,
+    "Top": 9333.0,
+    "Left": 8345.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "17",
+    "LayerId": "LayeredMap_17_-1",
+    "Name": "受翼遮蔽的小镇",
+    "Scale": 2.0,
+    "Floor": -1,
+    "Top": 9316.0,
+    "Left": 9122.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "17",
+    "LayerId": "LayeredMap_17_-2",
+    "Name": "空洞之梦的破壳处",
+    "Scale": 2.0,
+    "Floor": -2,
+    "Top": 8907.0,
+    "Left": 9056.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "18",
+    "LayerId": "LayeredMap_18_-1",
+    "Name": "融雪引流道出入口",
+    "Scale": 2.0,
+    "Floor": -1,
+    "Top": 9152.0,
+    "Left": 8553.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "18",
+    "LayerId": "LayeredMap_18_-2",
+    "Name": "融雪引流道上层",
+    "Scale": 2.0,
+    "Floor": -2,
+    "Top": 9254.0,
+    "Left": 8594.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "18",
+    "LayerId": "LayeredMap_18_-3",
+    "Name": "融雪引流道下层",
+    "Scale": 2.0,
+    "Floor": -3,
+    "Top": 9161.0,
+    "Left": 8581.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "19",
+    "LayerId": "LayeredMap_19_-1",
+    "Name": "祷告的大礼堂",
+    "Scale": 2.0,
+    "Floor": -1,
+    "Top": 8894.0,
+    "Left": 8674.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "19",
+    "LayerId": "LayeredMap_19_-2",
+    "Name": "通往隐秘之处的道路",
+    "Scale": 2.0,
+    "Floor": -2,
+    "Top": 8756.0,
+    "Left": 8664.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "20",
+    "LayerId": "LayeredMap_20_-1",
+    "Name": "永恒生命的宿梦处",
+    "Scale": 2.0,
+    "Floor": -1,
+    "Top": 9601.0,
+    "Left": 7402.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "22",
+    "LayerId": "LayeredMap_22_-1",
+    "Name": "化树民居地下室",
+    "Scale": 2.0,
+    "Floor": -1,
+    "Top": 8959.0,
+    "Left": 8691.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "23",
+    "LayerId": "LayeredMap_23_1",
+    "Name": "昔日皇帝行宫的厅堂",
+    "Scale": 2.0,
+    "Floor": 1,
+    "Top": 10488.0,
+    "Left": 5641.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "23",
+    "LayerId": "LayeredMap_23_2",
+    "Name": "半空的廊道",
+    "Scale": 2.0,
+    "Floor": 2,
+    "Top": 10593.0,
+    "Left": 5630.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "23",
+    "LayerId": "LayeredMap_23_3",
+    "Name": "回旋的高塔",
+    "Scale": 2.0,
+    "Floor": 3,
+    "Top": 10620.0,
+    "Left": 5670.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "23",
+    "LayerId": "LayeredMap_23_4",
+    "Name": "叩响隐秘门扉之所",
+    "Scale": 2.0,
+    "Floor": 4,
+    "Top": 10526.0,
+    "Left": 5574.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "23",
+    "LayerId": "LayeredMap_23_5",
+    "Name": "曾为无忧的庭院",
+    "Scale": 2.0,
+    "Floor": 5,
+    "Top": 10590.0,
+    "Left": 5676.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "24",
+    "LayerId": "LayeredMap_24_-1",
+    "Name": "臻冰之山的洞窟",
+    "Scale": 2.0,
+    "Floor": -1,
+    "Top": 8888.0,
+    "Left": 6787.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "24",
+    "LayerId": "LayeredMap_24_-2",
+    "Name": "臻冰之山的深处",
+    "Scale": 2.0,
+    "Floor": -2,
+    "Top": 8871.0,
+    "Left": 6636.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "25",
+    "LayerId": "LayeredMap_25_-1",
+    "Name": "巡猎者屋下的工坊",
+    "Scale": 2.0,
+    "Floor": -1,
+    "Top": 8073.0,
+    "Left": 8239.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "26",
+    "LayerId": "LayeredMap_26_-1",
+    "Name": "潮汐奏音的洞窟",
+    "Scale": 2.0,
+    "Floor": -1,
+    "Top": 8277.0,
+    "Left": 6705.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "27",
+    "LayerId": "LayeredMap_27_-1",
+    "Name": "帮派占据的洞窟",
+    "Scale": 2.0,
+    "Floor": -1,
+    "Top": 10169.0,
+    "Left": 6934.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "28",
+    "LayerId": "LayeredMap_28_-1",
+    "Name": "列车墓地",
+    "Scale": 2.0,
+    "Floor": -1,
+    "Top": 8927.0,
+    "Left": 8409.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "34402",
+    "LayerId": "LayeredMap_34402_-1",
+    "Name": "烟山的山心",
+    "Scale": 2.0,
+    "Floor": -1,
+    "Top": -1245.0,
+    "Left": 9182.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "34606",
+    "LayerId": "LayeredMap_34606_-1",
+    "Name": "幻写画之地",
+    "Scale": 2.0,
+    "Floor": -1,
+    "Top": -2132.0,
+    "Left": 8452.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "37701",
+    "LayerId": "LayeredMap_37701_-1",
+    "Name": "谜土与夜魂的祭祀所",
+    "Scale": 3.0,
+    "Floor": -1,
+    "Top": -1426.0,
+    "Left": 9868.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "8",
+    "LayerId": "LayeredMap_8_-1",
+    "Name": "西风骑士团遗迹·地下一层",
+    "Scale": 2.0,
+    "Floor": -1,
+    "Top": 3781.0,
+    "Left": -78.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "8",
+    "LayerId": "LayeredMap_8_-2",
+    "Name": "西风骑士团遗迹·地下二层",
+    "Scale": 2.0,
+    "Floor": -2,
+    "Top": 3926.0,
+    "Left": -140.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "8",
+    "LayerId": "LayeredMap_8_-3",
+    "Name": "西风骑士团遗迹·地下三层",
+    "Scale": 2.0,
+    "Floor": -3,
+    "Top": 3806.0,
+    "Left": -104.0,
+    "IsOverSize": false
+  }
+]

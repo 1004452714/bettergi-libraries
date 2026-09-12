@@ -1,0 +1,22 @@
+[
+  {
+    "LayerGroupId": "",
+    "LayerId": "MapBack_06",
+    "Name": "手动框选",
+    "Scale": 1.0,
+    "Floor": 0,
+    "Top": 7122.0,
+    "Left": 11264.0,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "",
+    "LayerId": "MapBack_07",
+    "Name": "手动框选",
+    "Scale": 1.0,
+    "Floor": 0,
+    "Top": 11264.0,
+    "Left": 9216.0,
+    "IsOverSize": false
+  }
+]

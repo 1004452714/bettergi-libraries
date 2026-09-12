@@ -1,0 +1,132 @@
+[
+  {
+    "LayerGroupId": "Reference2_G029",
+    "LayerId": "City_5501",
+    "Name": "凝露镇",
+    "Scale": 3.0,
+    "Floor": 0,
+    "Top": 7816.40576171875,
+    "Left": 7913.8271484375,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "Reference2_G030",
+    "LayerId": "City_5502",
+    "Name": "曙光车站",
+    "Scale": 3.0,
+    "Floor": 0,
+    "Top": 8659.1728515625,
+    "Left": 7948.09716796875,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "Reference2_G031",
+    "LayerId": "City_5503",
+    "Name": "巡猎者木屋",
+    "Scale": 3.0,
+    "Floor": 0,
+    "Top": 8013.4560546875,
+    "Left": 8202.0322265625,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "Reference2_G034",
+    "LayerId": "City_560",
+    "Name": "悲悼的圣所 / 至冬堡 / 格鲁波夫 / 科洛列夫茨基剧场 / 列车总站 / 炉灰区 / 克什尼克的炉心 / 「冬契军」总部 / 至冬宫",
+    "Scale": 3.0,
+    "Floor": 0,
+    "Top": 10269.9462890625,
+    "Left": 7065.24267578125,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "Reference2_G032",
+    "LayerId": "City_5601",
+    "Name": "海屑镇",
+    "Scale": 3.0,
+    "Floor": 0,
+    "Top": 9984.466796875,
+    "Left": 7859.7001953125,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "Reference2_G033",
+    "LayerId": "City_5602",
+    "Name": "彩冰镇",
+    "Scale": 3.0,
+    "Floor": 0,
+    "Top": 8867.0537109375,
+    "Left": 6693.404296875,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "Reference2_G035",
+    "LayerId": "City_570",
+    "Name": "赫斯珀利德斯之馆 / 冰结的雷枝 / 云上的祭台 / 汐歌洞窟",
+    "Scale": 3.0,
+    "Floor": 0,
+    "Top": 8523.80078125,
+    "Left": 6666.31884765625,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "Reference2_G036",
+    "LayerId": "City_5705",
+    "Name": "霜精的村落",
+    "Scale": 3.0,
+    "Floor": 0,
+    "Top": 9220.8037109375,
+    "Left": 6288.54296875,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "Reference2_G037",
+    "LayerId": "City_580",
+    "Name": "奥古洛夫镇 / 生栖树沼 / 念祷的礼堂",
+    "Scale": 3.0,
+    "Floor": 0,
+    "Top": 9094.6337890625,
+    "Left": 8999.9140625,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "Reference2_G025",
+    "LayerId": "City_7302",
+    "Name": "皮拉米达城",
+    "Scale": 3.0,
+    "Floor": 0,
+    "Top": 5391.01123046875,
+    "Left": 9560.2548828125,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "Reference2_G027",
+    "LayerId": "City_7402",
+    "Name": "西风戍垒",
+    "Scale": 3.0,
+    "Floor": 0,
+    "Top": 6025.69189453125,
+    "Left": 9833.15234375,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "Reference2_G028",
+    "LayerId": "City_7502",
+    "Name": "望崖营壁",
+    "Scale": 3.0,
+    "Floor": 0,
+    "Top": 6161.43798828125,
+    "Left": 10043.365234375,
+    "IsOverSize": false
+  },
+  {
+    "LayerGroupId": "Reference2_G008",
+    "LayerId": "City_7701",
+    "Name": "荆夫港",
+    "Scale": 3.0,
+    "Floor": 0,
+    "Top": 3667.265380859375,
+    "Left": -77.90101623535156,
+    "IsOverSize": false
+  }
+]
